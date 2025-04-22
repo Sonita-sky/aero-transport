@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
-DATA_URL = r"C:\Users\malla\OneDrive - Institut 2IE\Bureau\Nouveau dossier (2)\OnlineCourse\streamlit-sentiment-dashboard\Tweets.csv"
+DATA_URL = r"https://drive.google.com/file/d/1n1wQuNURM3CG6jwMioImHusU-9PUcK87/view?usp=sharing"
 
 st.title("Sentiment Analysis of Tweets about US Airlines")
 st.sidebar.title("Sentiment Analysis of Tweets")
